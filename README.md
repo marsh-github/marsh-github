@@ -76,7 +76,7 @@
 ---
 
 > _🛠️ Reverse Engineering: IDA Pro, Binary Ninja, x64dbg, Cheat Engine_  
-> _📦 Virtualization: VMWare_
+> _📦 Virtualization: VMWare, VirtualBox, HyperV_
 
 ---
 
