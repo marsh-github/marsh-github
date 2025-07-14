@@ -85,7 +85,7 @@
 <!-- Pinned repositories -->
 <p align="center">
   <a href="https://github.com/marsh-github?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marsh-github&repo=REPO_NAME&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marsh-github&repo=RootCrypt&theme=radical"/>
   </a>
 </p>
 
