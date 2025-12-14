@@ -8,3 +8,10 @@ And from there, curiosity did the rest of the work. I had a ton of questions on 
 - Emulators (specifically QEMU based ones, and I *do occasionally* dable in building software-based emulators)
 - Instrumentation Tooling (IDA scripts, small projects/helpers *here* and *there*)
 - Vulnerability discovery, specifically in the *Windows Kernel* with things like ***RCE***
+
+# **What are my interests?**
+- If it wasn't *immediately* obvious, low-level systems engineering and kernel development
+- Cryptography & Math
+- Cooking/Culinary Arts
+- Design (I really enjoy UI design)
+- Reading & Philosophy
