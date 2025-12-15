@@ -14,4 +14,4 @@ And from there, curiosity did the rest of the work. I had a ton of questions on 
 - Cryptography & Math
 - Cooking/Culinary Arts
 - Design (I really enjoy UI design)
-- Reading & Philosophy
+- Literature & Philosophy
