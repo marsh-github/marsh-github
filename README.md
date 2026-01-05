@@ -5,7 +5,7 @@ And from there, curiosity did the rest of the work. I had a ton of questions on 
 
 # **What am I currently working on?**
 - Several projects with my friends (code obfuscators, code **DE**-obfuscators, compilers, micro-kernels, *flux capacitors, cure to cancer*..)
-- Emulators (specifically QEMU based ones, and I *do occasionally* dable in building software-based emulators)
+- Emulators (specifically QEMU based ones, and I *do occasionally* dable in building software-based emulation *frameworks*)
 - Instrumentation Tooling (IDA scripts, small projects/helpers *here* and *there*)
 - Vulnerability discovery, specifically in the *Windows Kernel* with things like ***RCE***
 
